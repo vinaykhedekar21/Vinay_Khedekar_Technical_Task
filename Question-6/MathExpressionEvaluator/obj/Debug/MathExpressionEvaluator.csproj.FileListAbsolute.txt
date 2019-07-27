@@ -1,0 +1,7 @@
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.exe.config
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.exe
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\bin\Debug\MathExpressionEvaluator.pdb
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.csprojAssemblyReference.cache
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.csproj.CoreCompileInputs.cache
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.exe
+D:\FULL-TIME\INTERVIEWS\MICROSOFT\Team-Cloud-Stack\Technical Task\Coding_Question\MathExpressionEvaluator\obj\Debug\MathExpressionEvaluator.pdb
